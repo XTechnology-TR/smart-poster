@@ -104,7 +104,7 @@ qtconsole==5.0.3
 QtPy==1.9.0
 quote==2.0.4
 regex==2021.4.4
-requests==2.25.1
+requests==2.32.4
 requests-oauthlib==0.7.0
 rsa==4.7.2
 scikit-learn==0.24.1
